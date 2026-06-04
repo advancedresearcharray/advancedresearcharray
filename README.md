@@ -9,6 +9,7 @@ Research software, formal verification, and open-source work on AI agent tooling
 | [ClawWork](https://github.com/clawwork-ai/ClawWork) | Workspace migration path guard (Windows/macOS) — [PR #510](https://github.com/clawwork-ai/ClawWork/pull/510) | **Merged** |
 | [kiwifs](https://github.com/kiwifs/kiwifs) | Cursor team-wiki skill export (`--format skill`) — [PR #222](https://github.com/kiwifs/kiwifs/pull/222) | **Merged** |
 | [mex](https://github.com/theDakshJaitly/mex) | TODO/FIXME drift checker + checker docs — [PR #60](https://github.com/theDakshJaitly/mex/pull/60) | Open |
+| [Voiden](https://github.com/VoidenHQ/voiden) | Cmd+P filters for `.json` / `.void` + file mask — [PR #403](https://github.com/VoidenHQ/voiden/pull/403) | Open |
 
 ## Projects
 
