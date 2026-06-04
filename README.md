@@ -10,7 +10,7 @@ Research software, formal verification, and open-source work on AI agent tooling
 | [kiwifs](https://github.com/kiwifs/kiwifs) | Tasks/MCP [#224](https://github.com/kiwifs/kiwifs/pull/224)–[#226](https://github.com/kiwifs/kiwifs/pull/226); Kanban blocked-by [#230](https://github.com/kiwifs/kiwifs/pull/230); DQL `days_ago` + infer-schema [#231](https://github.com/kiwifs/kiwifs/pull/231); Docker dev [#232](https://github.com/kiwifs/kiwifs/pull/232) | Open |
 | [Voiden](https://github.com/VoidenHQ/voiden) | Cmd+P filters [#403](https://github.com/VoidenHQ/voiden/pull/403); GraphQL variables [#405](https://github.com/VoidenHQ/voiden/pull/405); env profile rename [#406](https://github.com/VoidenHQ/voiden/pull/406) | Open |
 | [mex](https://github.com/theDakshJaitly/mex) | Drift checkers [#60](https://github.com/theDakshJaitly/mex/pull/60)–[#62](https://github.com/theDakshJaitly/mex/pull/62); CLI smoke [#63](https://github.com/theDakshJaitly/mex/pull/63); stale-pattern [#64](https://github.com/theDakshJaitly/mex/pull/64) | Open |
-| [MCP Registry](https://github.com/modelcontextprotocol/registry) | Client-cancelled `/v0/servers` → 499 (branch ready) | Pending fork PR |
+| [MCP Registry](https://github.com/modelcontextprotocol/registry) | Client-cancelled `/v0/servers` → 499 — [#1335](https://github.com/modelcontextprotocol/registry/pull/1335) | Open |
 | [ClawWork](https://github.com/clawwork-ai/ClawWork) | Workspace path guard — [#510](https://github.com/clawwork-ai/ClawWork/pull/510) | **Merged** |
 | [git-context](https://github.com/promptpolish-ai/git-context) | `--json` output mode — [#18](https://github.com/promptpolish-ai/git-context/pull/18) | Open |
 
